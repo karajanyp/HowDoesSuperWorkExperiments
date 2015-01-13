@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>335CAED1-A03D-4293-9F7F-9F00D26C756B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HowDoesSuperWorkExperiments</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6687F431B9FDB4E7EC5C590E7F331A603A3E191E</key>
+		<string>github.com:karolkozub/HowDoesSuperWorkExperiments.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HowDoesSuperWorkExperiments.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6687F431B9FDB4E7EC5C590E7F331A603A3E191E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:karolkozub/HowDoesSuperWorkExperiments.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6687F431B9FDB4E7EC5C590E7F331A603A3E191E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6687F431B9FDB4E7EC5C590E7F331A603A3E191E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HowDoesSuperWorkExperiments</string>
+		</dict>
+	</array>
+</dict>
+</plist>
